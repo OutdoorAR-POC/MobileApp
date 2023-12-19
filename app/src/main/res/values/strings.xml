@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageViewer</string>
+    <string name="title_gallery_activity">Gallery</string>
+    <string name="title_path_viewer_activity">Path Viewer</string>
+    <string name="title_activity_main">Home</string>
+    <string name="drawer_header">Image Viewer Application</string>
+    <string name="toggle_drawer">Toggle drawer</string>
+    <string name="title_activity_compass">Compass</string>
+    <string name="compass">Compass</string>
+</resources>
